@@ -1,5 +1,5 @@
 # 1. Navigate to `cheats` folder
-![Google Chrome part 1](/tutorial/chrome/part%20(1).png)
+![Google Chrome part 1](/tutorial/chrome/part(1).png)
 # 2. Open `Bookmarklets.html` file
 ![Google Chrome part 2](/tutorial/chrome/part%20(2).png)
 # 3. Click `Download` or `View raw`
