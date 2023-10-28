@@ -4,7 +4,7 @@
 <h3 align="center"><a href="https://github.com/RishiRuparelia/Blooket-Cheats/blob/main/cheats/Bookmarklets.html">Download Bookmarklet</a></h3>
 
 
-<b>Information</b>
+<header><b>Information</b></header>
 
 <details><summary><h3>How to use</h3></summary>
 
