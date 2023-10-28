@@ -1,10 +1,10 @@
-<p align="center">Cheats made by someone who knows more about what they're doing</p>
-<h3 align="center"><a href="https://discord.gg/UzHv5WeHMq">Support Server</a></h2>
-<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
-<h3 align="center"><a href="https://github.com/RishiRuparelia/Blooket-Cheats/blob/main/cheats/Bookmarklets.html">Download Bookmarklet</a></h2>
+<p align="center">Cheats made by Rishi Ruparelia</p>
+<h3 align="center"><a href="https://discord.gg/UzHv5WeHMq">Support Server</a></h3>
+<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h3>
+<h3 align="center"><a href="https://github.com/RishiRuparelia/Blooket-Cheats/blob/main/cheats/Bookmarklets.html">Download Bookmarklet</a></h3>
 
 
-## Information
+<b>Information</b>
 
 <details><summary><h3>How to use</h3></summary>
 
