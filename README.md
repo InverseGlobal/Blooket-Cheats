@@ -44,11 +44,6 @@ No
 Battle Royale is a gamemode that works almost entirely on the host's end. The only thing we have control over is answering questions.
 </details>
 
-<details><summary><h3>What happend to Minesraft2?</h3></summary>
-
-Minesraft2 was sent a cease and desist from Blooket, and I offered to take over since he wouldn't be able to.
-</details>
-
 <details><summary><h3>How do I do this on mobile?</h3></summary>
 
 These scripts aren't made for mobile, so we don't really know how to get them to work on it.
