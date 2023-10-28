@@ -3,7 +3,7 @@
 # 2. Open `Bookmarklets.html` file
 ![Google Chrome part 2](/tutorial/chrome/part(2).png)
 # 3. Click `Download` or `View raw`
-![Google Chrome part 3](/tutorial/chrome/part%20(3).png)
+![Google Chrome part 3](/tutorial/chrome/part(3).png)
 # 4. Ctrl + S or Right click > Save as
 ![Google Chrome part 4](/tutorial/chrome/part%20(4).png)
 # 5. Save file
